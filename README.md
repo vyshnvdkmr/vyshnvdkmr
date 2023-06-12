@@ -2,18 +2,18 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Vyshnav -->
 
-### 👨🏻‍💻 &nbsp;ABOUT ME
+### &nbsp;ABOUT ME
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Muthoot Institute of Technology and Science.\
-🌱 &nbsp;I'm on track for learning more about Full-Stack Development, Designing, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and a tad bit of Gaming.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at vyshnavdileepkumar@gmail.com! I'll try to respond as soon as I can.
+• &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+• &nbsp;I'm currently studying Computer Science and Engineering at Muthoot Institute of Technology and Science.\
+• &nbsp;I'm on track for learning more about Full-Stack Development, Designing, and Cloud Architecture.\
+• &nbsp;In my free time, I pursue Graphic Design and a tad bit of Gaming.\
+• &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+• &nbsp;You can shoot me an email at vyshnavdileepkumar@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -28,15 +28,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma-ide&logoColor=2C2255)\
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva-ide&logoColor=2C2255)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB-ide&logoColor=2C2255)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express-ide&logoColor=2C2255)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)\
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/-Express.js-05122A.svg?style=flat&logo=express-ide&logoColor=2C2255)&nbsp;
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <!--<a href="https://"><img src=""/></a>-->
 <a href="https://www.linkedin.com/in/vyshnav-d-kumar-836160229/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vyshnavdileepkumar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
