@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Vyshnav -->
 
-### &nbsp;ABOUT ME
+### &nbsp;About Me
 
 • &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 • &nbsp;I'm currently studying Computer Science and Engineering at Muthoot Institute of Technology and Science.\
