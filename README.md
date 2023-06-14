@@ -29,9 +29,9 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)\
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=4EA94B)&nbsp;
 ![Express](https://img.shields.io/badge/-Express.js-05122A.svg?style=flat&logo=express-ide&logoColor=2C2255)&nbsp;
-
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A.svg?style=flat&style=flat&logo=tailwind-css&logoColor=38B2AC)&nbsp;
 
 ### &nbsp;Connect with Me
 
